@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'Recommendation Tracker',
+    title: 'NT Royal Commission Recommendation Tracker',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
